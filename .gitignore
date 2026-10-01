@@ -30,3 +30,6 @@ paper/build/
 *.out
 *.synctex.gz
 *.toc
+
+# Literature
+literature/
